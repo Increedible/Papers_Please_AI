@@ -30,4 +30,4 @@ os.environ["TESSDATA_PREFIX"] = "C:/path/to/Tesseract-OCR/tessdata/"
 ## Notes
 - OCR accuracy depends heavily on resolution and trained Tesseract language files.  
 - The project is a prototype and not a finished bot — expect errors and false positives.  
-- For experimentation only; not affiliated with or endorsed by the creator of *Papers, Please*..
+- For experimentation only; not affiliated with or endorsed by the creator of *Papers, Please*.
